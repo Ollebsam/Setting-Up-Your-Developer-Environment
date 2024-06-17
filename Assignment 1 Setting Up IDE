@@ -1,5 +1,3 @@
-Okay, got it. Since this is not an email submission, but rather a GitHub repository, let me provide the complete submission as a README.md file for your GitHub repository.
-
 # Setting Up Your Developer Environment
 
 ## Assignment Overview
@@ -43,9 +41,6 @@ This comprehensive document outlines the step-by-step process I followed to set 
 The complete setup documentation can be found in the [setup-documentation.md](setup-documentation.md) file.
 
 ## GitHub Repository
-I have created a GitHub repository containing a sample project initialized with Git, along with any necessary configuration files (e.g., .gitignore). You can access the repository at the following link:
-
-[GitHub Repository Link]
 
 ## Reflection
 In the setup documentation, I have included a reflection section that discusses the challenges I faced during the setup process and the strategies I employed to overcome them. Some of the key challenges I encountered were:
